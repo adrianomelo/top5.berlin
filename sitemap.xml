@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://top5.berlin/</loc>
+    <lastmod>2016-10-16T14:09:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://top5.berlin/top5/berlin/</loc>
+    <lastmod>2016-10-16T14:09:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://top5.berlin/place/la-pausa/</loc>
+    <lastmod>2016-10-09T16:54:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://top5.berlin/place/burgeramt/</loc>
+    <lastmod>2016-10-09T16:53:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://top5.berlin/place/burgermeister/</loc>
+    <lastmod>2016-10-09T16:44:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://top5.berlin/place/papa-pane-di-sorrento/</loc>
+    <lastmod>2016-10-09T14:47:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://top5.berlin/place/rebel-room/</loc>
+    <lastmod>2016-10-09T14:45:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://top5.berlin/place/tommi-s-burger-joint/</loc>
+    <lastmod>2016-10-09T14:44:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://top5.berlin/place/the-bird/</loc>
+    <lastmod>2016-10-09T14:43:55+02:00</lastmod>
+  </url>
+  
+</urlset>

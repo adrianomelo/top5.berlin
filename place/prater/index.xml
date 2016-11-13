@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prater on Highly biased top 5 things to do in Berlin</title>
+    <link>http://top5.berlin/place/prater/</link>
+    <description>Recent content in Prater on Highly biased top 5 things to do in Berlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Oct 2016 14:09:46 +0200</lastBuildDate>
+    <atom:link href="http://top5.berlin/place/prater/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Berlin</title>
+      <link>http://top5.berlin/top5/berlin/</link>
+      <pubDate>Sun, 16 Oct 2016 14:09:46 +0200</pubDate>
+      
+      <guid>http://top5.berlin/top5/berlin/</guid>
+      <description>&lt;p&gt;Berlin, Germany’s capital, dates to the 13th century. Reminders of the city&amp;rsquo;s turbulent 20th-century history include its Holocaust memorial and the Berlin Wall&amp;rsquo;s graffitied remains. Divided during the Cold War, its 18th-century Brandenburg Gate has become a symbol of reunification. The city&amp;rsquo;s also known for its art scene and modern landmarks like the gold-colored, swoop-roofed Berliner Philharmonie, built in 1963.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

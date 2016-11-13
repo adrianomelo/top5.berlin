@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Highly biased top 5 things to do in Berlin</title>
+    <link>http://top5.berlin/</link>
+    <description>Recent content on Highly biased top 5 things to do in Berlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Oct 2016 14:09:46 +0200</lastBuildDate>
+    <atom:link href="http://top5.berlin/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Berlin</title>
+      <link>http://top5.berlin/top5/berlin/</link>
+      <pubDate>Sun, 16 Oct 2016 14:09:46 +0200</pubDate>
+      
+      <guid>http://top5.berlin/top5/berlin/</guid>
+      <description>&lt;p&gt;Berlin, Germany’s capital, dates to the 13th century. Reminders of the city&amp;rsquo;s turbulent 20th-century history include its Holocaust memorial and the Berlin Wall&amp;rsquo;s graffitied remains. Divided during the Cold War, its 18th-century Brandenburg Gate has become a symbol of reunification. The city&amp;rsquo;s also known for its art scene and modern landmarks like the gold-colored, swoop-roofed Berliner Philharmonie, built in 1963.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>la pausa</title>
+      <link>http://top5.berlin/place/la-pausa/</link>
+      <pubDate>Sun, 09 Oct 2016 16:54:57 +0200</pubDate>
+      
+      <guid>http://top5.berlin/place/la-pausa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burgeramt</title>
+      <link>http://top5.berlin/place/burgeramt/</link>
+      <pubDate>Sun, 09 Oct 2016 16:53:57 +0200</pubDate>
+      
+      <guid>http://top5.berlin/place/burgeramt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>burgermeister</title>
+      <link>http://top5.berlin/place/burgermeister/</link>
+      <pubDate>Sun, 09 Oct 2016 16:44:14 +0200</pubDate>
+      
+      <guid>http://top5.berlin/place/burgermeister/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>papa pane di sorrento</title>
+      <link>http://top5.berlin/place/papa-pane-di-sorrento/</link>
+      <pubDate>Sun, 09 Oct 2016 14:47:17 +0200</pubDate>
+      
+      <guid>http://top5.berlin/place/papa-pane-di-sorrento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rebel room</title>
+      <link>http://top5.berlin/place/rebel-room/</link>
+      <pubDate>Sun, 09 Oct 2016 14:45:01 +0200</pubDate>
+      
+      <guid>http://top5.berlin/place/rebel-room/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tommi s burger joint</title>
+      <link>http://top5.berlin/place/tommi-s-burger-joint/</link>
+      <pubDate>Sun, 09 Oct 2016 14:44:18 +0200</pubDate>
+      
+      <guid>http://top5.berlin/place/tommi-s-burger-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>the bird</title>
+      <link>http://top5.berlin/place/the-bird/</link>
+      <pubDate>Sun, 09 Oct 2016 14:43:55 +0200</pubDate>
+      
+      <guid>http://top5.berlin/place/the-bird/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
